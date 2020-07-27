@@ -2,3 +2,7 @@ body {
 	background: url(“images/supernova.png”);
 }
 
+h1, h3, p {
+	color: white;
+	font-family: sans-serif;
+}
